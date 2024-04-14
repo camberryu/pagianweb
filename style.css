@@ -1,73 +1,71 @@
 .contenedor {
-
-
 margin-top: 50px;
 margin-left: 100px;
 margin-right: 50px;
 background-color: rgb(65, 158, 65);
 padding: 10px;
 width: 1100px;
-
 }
 
 
 .energía {
-
-
 margin-top: 50px;
 margin-left: 100px;
 margin-right: 50px;
 border: 2px rgb(37, 83, 37);
 padding: 10px;
 width: 1100px;
-
-
-
-
-
 }
 
 
 .renovables {
-
 width: 500px;
-
 }
 
 .norenovables {
 margin-top: -345px;
 margin-left: 550px;
-
-
-
 }
 
 .sociales {
-
-
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 50px;
 background-color: rgb(168, 109, 69);
 padding: 10px;
 width: 1100px;
-
-
 }
 
 .democracia {
-
 margin-top: 50px;
 margin-left: 100px;
 margin-right: 50px;
 padding: 10px;
 width: 1100px;
-
-
-
-
-
-
 }
+
+
+.ingles {
+
+margin-top: 50px;
+margin-left: 100px;
+margin-right: 50px;
+background-color: rgb(63, 87, 165);
+padding: 10px;
+width: 1100px;
+}
+
+
+.moon {
+margin: 50px;
+margin-left: 100px;
+margin-right: 50px;
+padding: 10px;
+width: 1100px;
+}
+
+
+
+
 
 
